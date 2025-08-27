@@ -100,3 +100,4 @@ C:\MySolution\test\obj\Debug\net6.0\ref\test.dll
 c:\MySolution\test\bin\Debug\net6.0\CoverletSourceRootsMapping
 c:\MySolution\test\bin\Debug\net6.0\consoleapp.dll
 c:\MySolution\test\bin\Debug\net6.0\consoleapp.pdb
+C:\MySolution\test\obj\Debug\net6.0\test.sourcelink.json

@@ -32,3 +32,4 @@ C:\MySolution\api\obj\Debug\net6.0\refint\api.dll
 C:\MySolution\api\obj\Debug\net6.0\api.pdb
 C:\MySolution\api\obj\Debug\net6.0\api.genruntimeconfig.cache
 C:\MySolution\api\obj\Debug\net6.0\ref\api.dll
+C:\MySolution\api\obj\Debug\net6.0\api.sourcelink.json
