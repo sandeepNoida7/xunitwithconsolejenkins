@@ -9,11 +9,12 @@ USER appuser
 FROM --platform=$BUILDPLATFORM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 ARG configuration=Release
 WORKDIR /src
-COPY ["consoleapp/consoleapp.csproj", "consoleapp/"]
-RUN dotnet restore "consoleapp/consoleapp.csproj"
+
+COPY ["consoleapp.csproj", "./"]
+RUN dotnet restore "consoleapp.csproj"
 COPY . .
-WORKDIR "/src/consoleapp"
-RUN dotnet build "consoleapp.csproj" -c $configuration -o /app/build
+WORKDIR /src
+RUN dotnet build "consoleapp.csproj" -c Release -o /app/build
 
 FROM build AS publish
 ARG configuration=Release
