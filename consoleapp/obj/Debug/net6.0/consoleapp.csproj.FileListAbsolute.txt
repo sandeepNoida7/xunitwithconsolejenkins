@@ -1,0 +1,11 @@
+C:\MySolution\consoleapp\bin\Debug\net6.0\consoleapp.deps.json
+C:\MySolution\consoleapp\bin\Debug\net6.0\consoleapp.dll
+C:\MySolution\consoleapp\bin\Debug\net6.0\consoleapp.pdb
+C:\MySolution\consoleapp\obj\Debug\net6.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MySolution\consoleapp\obj\Debug\net6.0\consoleapp.AssemblyInfoInputs.cache
+C:\MySolution\consoleapp\obj\Debug\net6.0\consoleapp.AssemblyInfo.cs
+C:\MySolution\consoleapp\obj\Debug\net6.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\MySolution\consoleapp\obj\Debug\net6.0\consoleapp.dll
+C:\MySolution\consoleapp\obj\Debug\net6.0\refint\consoleapp.dll
+C:\MySolution\consoleapp\obj\Debug\net6.0\consoleapp.pdb
+C:\MySolution\consoleapp\obj\Debug\net6.0\ref\consoleapp.dll
